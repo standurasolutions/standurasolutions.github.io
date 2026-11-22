@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://standurasolutions.github.io/sitemap.xml

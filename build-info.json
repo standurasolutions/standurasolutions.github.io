@@ -1,0 +1,11 @@
+{
+  "buildDate": "2026-11-22",
+  "pages": 12,
+  "live": false,
+  "demos": [
+    "demo-maler",
+    "demo-cafe",
+    "demo-beauty"
+  ],
+  "checkout": []
+}
